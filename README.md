@@ -52,6 +52,14 @@ Output: non-toxic
 pip install -r requirements.txt
 streamlit run app.py
 
+🔮 Future Work
+Use advanced molecular fingerprints
+Extend to multi-target toxicity prediction
+Integrate deep learning models
+
+📌 Conclusion
+This project demonstrates how machine learning can be used to predict drug toxicity and assist in early-stage drug discovery.
+
 🔍 Example
 
 Input:
